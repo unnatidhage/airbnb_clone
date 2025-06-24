@@ -1,7 +1,5 @@
 # airbnb_clone (in progress)...
 
-# Airbnb Clone (In Progress)
-
 This repository will contain the code for an Airbnb Clone web application.
 
 ## Status
